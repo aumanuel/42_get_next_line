@@ -14,7 +14,7 @@ This projects is about creating a function that, allows to read a line ending wi
 * `git clone https://github.com/aumanuel/42_get_next_line.git`
 
 ## Usage
-```c
+```
 char *line;
 
 // To get a single line
