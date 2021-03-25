@@ -1,6 +1,8 @@
 # Get Next Line
 Final grade: 125/100 (full bonus)
 
+This projects is about creating a function that, allows to read a line ending with a newline character ('\n') from a file descriptor, without knowing its size beforehand.
+
 ## Challenge
 
 * `Instructions: only 1 file`
