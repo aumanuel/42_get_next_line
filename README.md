@@ -11,7 +11,7 @@ This projects is about creating a function that, allows to read a line ending wi
 
 ## Installation
 
-* `git clone https://github.com/mikim42/Get_next_line.git`
+* `git clone https://github.com/aumanuel/42_get_next_line.git`
 
 ## Usage
 ```c
