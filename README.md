@@ -1,5 +1,5 @@
 # Get Next Line
-Final grade: 125/100
+Final grade: 125/100 (full bonus)
 
 ## Rules
 
