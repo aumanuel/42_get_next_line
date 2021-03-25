@@ -7,7 +7,7 @@ This projects is about creating a function that, allows to read a line ending wi
 
 * `Instructions: only 1 file`
 * [42 Norm](https://cdn.intra.42.fr/pdf/pdf/960/norme.en.pdf) `maximum 5 functions per file, maximum 25 lines per function`
-* `Additional personal goal: only 1 function + bonus`
+* `Additional personal goal: only 1 function + all the bonuses`
 
 ## Installation
 
