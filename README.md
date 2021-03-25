@@ -1,7 +1,7 @@
 # Get Next Line
 Final grade: 125/100 (full bonus)
 
-## Rules
+## Challenge
 
 * `Instructions: only 1 file`
 * [42 Norm](https://cdn.intra.42.fr/pdf/pdf/960/norme.en.pdf) `maximum 5 functions per file, maximum 25 lines per function`
