@@ -3,7 +3,7 @@
 ## Rules
 
 * `Instructions: only 1 file`
-* [42 Norm](https://cdn.intra.42.fr/pdf/pdf/960/norme.en.pdf) `maximum 5 functions per file, and maximum 25 lines per function`
+* [42 Norm](https://cdn.intra.42.fr/pdf/pdf/960/norme.en.pdf) `maximum 5 functions per file, maximum 25 lines per function`
 * `Personnal goal: only 1 function + bonus`
 * `Final grade: 125/100`
 
